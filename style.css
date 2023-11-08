@@ -1,5 +1,57 @@
-#color{
+
+.contain-flex{
+    background-color:white;
+}
+
+
+
+.logo{
+    width: 100px;
+    height: 100px;
+
+}
+.mot{ 
+    justify-content:beginning;
+    align-items:end  ;
+    display:flex ;
+}
+.couleur{
+    color: rgb(163, 25, 48);
+}
+.image{
+    background-image: url("assets/femmes_voilees_mode_hijab_abaya_modeste_jilbeb_voile.webp");
+    background-size: cover;
+    height:400px;
+    width:100%;
+}
+
+.text{
+    color:red
+}
+#search{
+    color: red;
+    background-color: rgb(241, 235, 235);
+}
+.ariane *{
+    color: rgb(216, 77, 77);
+}
+.photo {
+    display: flex;
+    
+
+}
+.img{
+    width: 300px;
+}
+h4{
     text-align: center;
-    color: blue;
-    background-color: rgb(236, 9, 9);
+    color: rgb(210, 240, 14);
+    background-color: rgb(78, 169, 114);
+}
+p{
+    text-align: center;
+    color: rgb(246, 5, 5);
+}
+.achat{
+    justify-content: end;
 }

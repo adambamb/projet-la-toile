@@ -1,6 +1,6 @@
 
 .contain-flex{
-    background-color:white;
+    background-color:rgb(237, 243, 245);
 }
 
 
@@ -54,4 +54,10 @@ p{
 }
 .achat{
     justify-content: end;
+}
+.bouton{
+    background-color: aqua;
+}
+.underline {
+    text-decoration: underline ;
 }
